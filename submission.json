@@ -1,0 +1,7 @@
+{
+  "prompt": "A surreal cinematic illustration of Earth shaped like human lungs, one lung lush green forest, the other burned barren deforested land with smoke rising, tree roots forming bronchial tubes, dark background, environmental storytelling, hyper detailed, magazine cover style, no text, no labels",
+  "model": "Flux Pro 1.1",
+  "dataset_name": "Global Forest Change Dataset",
+  "dataset_url": "https://www.globalforestwatch.org/dashboards/global/",
+  "insight": "Deforestation is destroying the planet’s natural lungs."
+}
